@@ -13,6 +13,7 @@
     <module>jobs/process/folder1/joba_0.1</module>
     <module>jobs/process/feature1/jobb_0.1</module>
     <module>jobs/process/folder2/jobc_0.1</module>
+    <module>code/beans</module>
   </modules>
   <properties>
     <talend.project.name>SE_711</talend.project.name>
