@@ -14,6 +14,7 @@
     <module>jobs/process/feature1/jobb_0.1</module>
     <module>jobs/process/folder2/jobc_0.1</module>
     <module>code/beans</module>
+    <module>jobs/process/travelers/test_logging_0.1</module>
   </modules>
   <properties>
     <talend.project.name>SE_711</talend.project.name>
