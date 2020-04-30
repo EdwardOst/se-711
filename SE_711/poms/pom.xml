@@ -16,6 +16,7 @@
     <module>code/routines</module>
     <module>code/beans</module>
     <module>jobs/process/travelers/test_test_0.1</module>
+    <module>jobs/routes/travelers_0.1</module>
   </modules>
   <properties>
     <talend.project.name>SE_711</talend.project.name>
